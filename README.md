@@ -1,7 +1,5 @@
 # Screen Usage Load Meter
 
----
-
 ## 1. Project Overview
 
 ### What it does
